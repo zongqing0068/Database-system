@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1591860118 source:e:\数据库\db5\extmem-c\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 e:\数据库\db5\extmem-c\extmem.h
+
+1554883444 source:e:\数据库\db5\extmem-c\test.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1674367706 source:e:\数据库\db5\extmem-c\lab5.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1591860118 source:e:\extmem-c\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 e:\extmem-c\extmem.h
+
+1674130990 source:e:\extmem-c\lab5.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1591860118 source:e:\数据库\db5\200110513-宗晴-db5\extmem-c\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 e:\数据库\db5\200110513-宗晴-db5\extmem-c\extmem.h
+
+1674393344 source:e:\数据库\db5\200110513-宗晴-db5\extmem-c\lab5.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
